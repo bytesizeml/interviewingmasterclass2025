@@ -12,7 +12,7 @@
 ***
 
 
-| [Home](index.md)  | [Lectures](lectures.md)  | [Assessments](assessments.md) | [References](references.md) 
+| [Home](index.md)  | [Lectures](lectures.md)  
 
 
 
