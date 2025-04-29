@@ -24,6 +24,6 @@
 ***
 
 | Lecture | Lecture Topic | Pre-Lecture Slides |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | April 26 | Introduction, ML Breadth and Behavioral |  [Lecture 1](lectures/ML_Interviewing_Day_1.pdf) |
 | April 27 | LeetCoding and ML Coding |  [Lecture 2](lectures/ML_Interviewing_Day_2.pdf) |
