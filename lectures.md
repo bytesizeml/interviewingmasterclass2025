@@ -28,3 +28,4 @@
 | April 26 | Introduction, ML Breadth and Behavioral |  [Lecture 1](lectures/ML_Interviewing_Day_1.pdf) |
 | April 27 | LeetCoding and ML Coding |  [Lecture 2](lectures/ML_Interviewing_Day_2.pdf) |
 | May 3 | ML Depth |  [Lecture 3](lectures/ML_Interviewing_Day_3.pdf) |
+| May 4 | ML Design |  [Lecture 4](lectures/ML_Interviewing_Day_4.pdf) |
